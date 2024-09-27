@@ -6,7 +6,7 @@ Apresentação pessoal escolhendo 3 curiosidades de cada aluno
 
 
 
-##2.Trabalho usando Fórmulas e dados abertos
+## 2.Trabalho usando Fórmulas e dados abertos
 e fazer o download do arquivo Quantidade de alunos estrangeiros por nacionalidade - 2º Semestre - 2023
 Obs.: o dicionário é útil para entender os dados.
 
@@ -25,7 +25,7 @@ https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/Quantidade%20de%20a
 
 
 
-##3.Planilhas: fórmulas e dados abertos
+## 3.Planilhas: fórmulas e dados abertos
 
 1-Elabore  cinco perguntas sobre os dados coletados.
 2-Responda as perguntas elaboradas, usando fórmulas do Excel.
