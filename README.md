@@ -28,9 +28,13 @@ https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/Quantidade%20de%20a
 ## 3.Planilhas: fórmulas e dados abertos
 
 1-Elabore  cinco perguntas sobre os dados coletados.
+
 2-Responda as perguntas elaboradas, usando fórmulas do Excel.
+
 3- Faça  gráficos que mostrem os valores calculados no item 3.
+
 4- Poste o arquivo com as fórmulas utilizadas em seu github
+
 5- Apresentaçao E2 em 19/09
 
 https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos%20-%20Copiar.xlsx
