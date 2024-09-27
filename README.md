@@ -4,6 +4,8 @@ Apresentação pessoal escolhendo 3 curiosidades de cada aluno
 
 ![image](https://github.com/user-attachments/assets/0c768f4b-bb2f-42fc-9b44-1017c3ad167d)
 
+
+
 ##2.Trabalho usando Fórmulas e dados abertos
 e fazer o download do arquivo Quantidade de alunos estrangeiros por nacionalidade - 2º Semestre - 2023
 Obs.: o dicionário é útil para entender os dados.
@@ -18,6 +20,10 @@ Qual nacionalidade está com maior número de alunos presentes no estado de São
 4- Poste o arquivo com as fórmulas utilizadas em seu github
 
 https://github.com/Danzzpp/Trabalho-1-informatica-Qnt-Alunos-.git
+
+
+
+
 
 ##3.Planilhas: fórmulas e dados abertos
 
