@@ -1,4 +1,4 @@
-##1.Primeira Tarefa;Apresentação Pessoal; software; Canva
+## 1.Primeira Tarefa;Apresentação Pessoal; software; Canva
 
 Apresentação pessoal escolhendo 3 curiosidades de cada aluno
 
