@@ -19,7 +19,7 @@ Qual nacionalidade está com maior número de alunos presentes no estado de São
 3- Faça  gráficos que mostrem os valores calculados no item 3.
 4- Poste o arquivo com as fórmulas utilizadas em seu github
 
-https://github.com/Danzzpp/Trabalho-1-informatica-Qnt-Alunos-.git
+https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023_REV2%201.xlsx
 
 
 
@@ -32,3 +32,4 @@ https://github.com/Danzzpp/Trabalho-1-informatica-Qnt-Alunos-.git
 3- Faça  gráficos que mostrem os valores calculados no item 3.
 4- Poste o arquivo com as fórmulas utilizadas em seu github
 5- Apresentaçao E2 em 19/09
+
