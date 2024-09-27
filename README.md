@@ -13,9 +13,13 @@ Obs.: o dicionário é útil para entender os dados.
 1-Abrir o arquivo via Excel e salvá-lo como nome do arquivo.xlsx
 
 2-Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, responda as perguntas a seguir:
+
 Quantos alunos existem de cada país, considerando todas as escolas? 
+
 Quantas nacionalidades de alunos existem em cada escola?
+
 Quantas nacionalidades de alunos existem em cada município?
+
 Qual nacionalidade está com maior número de alunos presentes no estado de São Paulo?
 
 3- Faça  gráficos que mostrem os valores calculados no item 3.
