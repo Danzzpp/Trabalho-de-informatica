@@ -68,4 +68,7 @@ Na atividade proposta pela professora, desenvolvi um dashboard para indicar meta
 
 ![Capturar PNG2](https://github.com/user-attachments/assets/dd0f1429-6dfb-4d96-a8cb-c42d1b4cf3e6)
 
+https://app.powerbi.com/links/GyDxxBLPTZ?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
+
 
