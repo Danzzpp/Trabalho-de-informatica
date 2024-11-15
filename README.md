@@ -58,5 +58,10 @@ gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do pr
 
 ![image](https://github.com/user-attachments/assets/4967eb26-119a-4c93-99e5-3317b1122733)
 
-## %.
+## 5.DESENVOLVIMENTO POWER BI : Power BI fórmulas DAX e KPI Na atividade proposta pela professora, utilizamos os seguintes dados para realizar um BI com visibilidade das informações. Gerei o seguinte dashboard:
+
+
+
+## 6.3.4 DESENVOLVIMENTO POWER BI : Power BI, dados abertos, fórmulas DAX, KPI
+Na atividade proposta pela professora, desenvolvi um dashboard para indicar metas batidas de cada escola na no estado de São Paulo.
 
