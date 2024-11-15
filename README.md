@@ -48,6 +48,14 @@ https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/f%C3%B3rmulas%20e%2
 
 ## 4.Power BI Bandeiras
 
+Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de BI foi a seguinte:
+
+elaborar um arquivo que contenha DS_PAIS e LINK para a figura da bandeira do país.
+fazer o uploading do arquivo construído e do arquivo anexo para o PowerBI.
+fazer o modelo dos dois arquivos no PowerBI, relacionando-os pelo DS_PAIS.
+fazer a categorização de dados, se necessário.
+gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. Foi gerado por mim a seguinte tela para visualizar os paises
+
 ![image](https://github.com/user-attachments/assets/4967eb26-119a-4c93-99e5-3317b1122733)
 
 ## %.
