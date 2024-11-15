@@ -45,3 +45,10 @@ https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/Quantidade%20de%20a
 5- Apresentaçao E2 em 19/09
 
 https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos%20-%20Copiar.xlsx
+
+## 4.Power BI Bandeiras
+
+![image](https://github.com/user-attachments/assets/4967eb26-119a-4c93-99e5-3317b1122733)
+
+## %.
+
