@@ -71,4 +71,16 @@ Na atividade proposta pela professora, desenvolvi um dashboard para indicar meta
 https://app.powerbi.com/links/GyDxxBLPTZ?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
 
+## 7. Prova,Dashboard com três visualizações diferentes
+
+![ALunos estrangeiros 2024-11-28 at 22 41 29](https://github.com/user-attachments/assets/7e26bb40-08ba-465b-aee6-539ef4e2e2f0)
+
+
+
+
+## 7. Construa um dashboard com três visualização diferentes
+
+
+
+
 
