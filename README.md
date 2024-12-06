@@ -28,7 +28,8 @@ Obs.: o dicionário é útil para entender os dados.
 
 https://github.com/Danzzpp/Trabalho-de-informatica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023_REV2%201.xlsx
 
-
+## Trabalho do powerapps
+[Aplicativo gerenciador de projetos e tarefas - Power Apps - Google Chrome 2024-12-06 19-47-33.zip](https://github.com/user-attachments/files/18044540/Aplicativo.gerenciador.de.projetos.e.tarefas.-.Power.Apps.-.Google.Chrome.2024-12-06.19-47-33.zip)
 
 
 
