@@ -78,8 +78,12 @@ https://app.powerbi.com/links/GyDxxBLPTZ?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 
 
+## aplicativo powerapps
 
-## 7. Construa um dashboard com três visualização diferentes
+
+[Uploading Aplicativo gerenciador de projetos e tarefas - Power Apps - Google Chrome 2024-12-06 19-47-33.zip…]()
+
+
 
 
 
